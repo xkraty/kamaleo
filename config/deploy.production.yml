@@ -1,0 +1,11 @@
+servers:
+  web:
+    - kamaleo.domain.com
+
+proxy:
+  ssl: true
+  host: kamaleo.domain.com
+
+accessories:
+  tunnel:
+    host: kamaleo.domain.com

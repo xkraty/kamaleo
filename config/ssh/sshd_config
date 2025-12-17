@@ -1,0 +1,7 @@
+GatewayPorts yes
+ListenAddress 0.0.0.0
+PasswordAuthentication no
+PubkeyAuthentication yes
+PermitRootLogin yes
+
+AuthorizedKeysFile /config/authorized_keys
